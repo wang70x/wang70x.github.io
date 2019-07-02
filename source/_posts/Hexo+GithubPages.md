@@ -41,7 +41,7 @@ Markdwon：
 
 
 
-换电脑怎么更新：
+换电脑怎么更新(源文件保存到分支)：
 
 - [使用hexo，如果换了电脑怎么更新博客？](https://www.zhihu.com/question/21193762)
 
